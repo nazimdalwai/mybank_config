@@ -1,0 +1,11 @@
+build:
+  version: "2.0"
+
+accounts:
+  message: "Welcome to MyBank accounts related QA APIs"
+  contactDetails:
+    name: "Will - Developer"
+    email: "will@gmail.com"
+  onCallSupport:
+    - (444) 555-1234
+    - (444) 523-1345
