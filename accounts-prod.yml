@@ -5,7 +5,7 @@ accounts:
   message: "Welcome to MyBank accounts related to Production APIs"
   contactDetails:
     name: "Jack - Developer"
-    email: "jack@gmail.com"
+    email: "{cipher}0226a40be49c69615fb896ce5e5013bd0d7e75ae7dd74666b2bd7a61f97a2ac2"
   onCallSupport:
     - (333) 555-1234
     - (333) 523-1345
