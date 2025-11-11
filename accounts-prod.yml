@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 accounts:
-  message: "Welcome to MyBank accounts related to Prod APIs"
+  message: "Welcome to MyBank accounts related to prod APIs"
   contactDetails:
     name: "Jack - Developer"
     email: "{cipher}0226a40be49c69615fb896ce5e5013bd0d7e75ae7dd74666b2bd7a61f97a2ac2"
